@@ -62,7 +62,7 @@ def calculate_ccc(dso=None, dio=None, dpo=None, accounts_receivable=None, revenu
     accounts_receivable (float, optional): Accounts Receivable value
     revenue (float, optional): Revenue value
     inventory (float, optional): Inventory value
-    cogs (float, optional): Cost of Goods Sold value
+    cost_of_goods_sold (float, optional): Cost of Goods Sold value
     accounts_payable (float, optional): Accounts Payable value
     days_in_year (int, optional): Number of days in a year. Defaults to 365.
 
